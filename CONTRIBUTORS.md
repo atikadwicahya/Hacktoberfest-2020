@@ -62,5 +62,10 @@
  - Place: Semarang, Indonesia
  - Bio: College Student, FullStack Dev. -
  - GitHub: [saipul](https://github.com/saifoelloh)
+ 
+ #### Name: Atika Dwi Cahyani
+ - Place: Cilacap, Indonesia
+ - Bio: IT Student. -
+ - GitHub: [atikadwicahya](https://github.com/atikadwicahya)
 
 
